@@ -168,17 +168,14 @@ I care deeply about writing clean, scalable code and creating products that are 
 
 ## 📊 &nbsp; GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-</tr>
-</table>
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvpatil1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvpatil18&theme=dark&background=0d1117&fire=58A6FF&ring=58A6FF&currStreakNum=ffffff" alt="Atharv's GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvpatil18&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&hide_border=true&area=true&area_color=1f6feb" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvpatil18&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&hide_border=true&area=true&area_color=1f6feb" width="100%" alt="Atharv's Activity Graph" />
 </div>
 
 ---
