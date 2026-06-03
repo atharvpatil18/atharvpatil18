@@ -174,7 +174,7 @@ I care deeply about writing clean, scalable code and creating products that are 
 </table>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvpatil18&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF7700&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvpatil1"/>
 </div>
 
 <div align="center">
